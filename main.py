@@ -2,7 +2,7 @@ import telebot
 import sqlite3
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
-TOKEN = "YOUR_TOKEN"
+TOKEN = "8575973930:AAHm_dgZ9z1rVMQm_wDnjA9ulXFmeUZHdwg"
 bot = telebot.TeleBot(TOKEN)
 
 # Connect to database
